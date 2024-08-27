@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m @Partha0213
 - 👀 I’m interested in Artificial intelligence and Machine learning 
-- 🌱 I’m currently learning python 
+- 🌱 I’m currently learning python Programming
 -  🌱 I’m currently learning java 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
